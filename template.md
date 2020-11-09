@@ -48,7 +48,7 @@ Visualize the performance of your model (accuracy/error/loss). You can use for t
 
 # Section 4) Save your ML model for distribution (10%)
 
-Show how you saved your ML model. In addition to showing the code, the expectation is that in your repo your ML model is present. Save
+Show how you saved your ML model. In addition to showing the code, the expectation is that in your repo your ML model is present. 
 
 In your private repo, ensure that you save your trained ML with the name *lastname*_week11_model.(extension)
 
