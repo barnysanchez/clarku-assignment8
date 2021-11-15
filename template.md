@@ -24,11 +24,14 @@ Paragraph 3 - What is your own defined success criteria.
 ```
 Example:
 
-1) As a consumer of food, I wanted to find out how many calories I needed to eat in November, so that in December I can still fit in my clothes. This was a regression problem. 
+1) As a consumer of food, I wanted to find out how many calories I needed to eat in November, so that in December I can 
+still fit in my clothes. This was a regression problem. 
 
-2) I chose a supervised ML model using my own data set from the app on my phone that tracks my daily food ingestion. I collected it for 2 months, tabulated, and did some feature engineering to combined healthiest and more filling types of foods. 
+2) I chose a supervised ML model using my own data set from the app on my phone that tracks my daily food ingestion. I 
+collected it for 2 months, tabulated, and did some feature engineering to combined healthiest and more filling types of foods. 
 
-3) When I weight myself every 2 days, I should be within 5% of my baseline weight. My starting weight at the start of the experiment was 200 lbs. 
+3) When I weight myself every 2 days, I should be within 5% of my baseline weight. My starting weight at the start of 
+the experiment was 200 lbs. 
 ```
 
 # Section 2) Show the code and architecutre of your ML (20%)
