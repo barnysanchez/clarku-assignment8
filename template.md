@@ -55,6 +55,8 @@ Show how you saved your ML model. In addition to showing the code, the expectati
 
 In your private repo, ensure that you save your trained ML with following the convention: ***lastname***_week13_model.(extension)
 
+***DO NOT*** save checkpoints of your model I don't want 50 different files, I am expecting 1 file for your trained model, that's it! 
+
 
 # Section 5) Inference test of your model (20%)
 
@@ -72,4 +74,8 @@ Given your own definition of success of this project. Were you successful?
 
 - If not: what went wrong?  can this project be saved? what would you need to make it successful?
 
+# SUMMARY OF FILES EXPECTED FOR THE LAST ASSIGNMENT SUBMISSION
 
+- Jupyter notebook following this same file as a template. The file name:  *lastname*_week13.ipynb
+- 1 file with your dataset: Filename name: *lastname*_week13_dataset.*.   (Compress/zip the file if needed be, but 1 file only expected)
+- 1 file with your trained model: Filename name: *lastname*_week13_model.*.   (h5, pkl, etc)
