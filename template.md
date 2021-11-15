@@ -53,7 +53,7 @@ Visualize the performance of your model (accuracy/error/loss). You can use for t
 
 Show how you saved your ML model. In addition to showing the code, the expectation is that in your repo your ML model is present. 
 
-In your private repo, ensure that you save your trained ML with following the convention: ***lastname***_week11_model.(extension)
+In your private repo, ensure that you save your trained ML with following the convention: ***lastname***_week13_model.(extension)
 
 
 # Section 5) Inference test of your model (20%)
