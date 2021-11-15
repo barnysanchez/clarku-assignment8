@@ -1,12 +1,12 @@
 # Instructions for Assignment 8 submission 
 
-***THIS IS PART 2 OF YOUR CAPSTONE PROJECT***
+***THIS IS PART 3 OF YOUR CAPSTONE PROJECT***
 
-(The purpose of this assignment is for you to delivered a trained model that addresses your project proposal. This model needs to be trained with the data set that you harvested from the previous assignment 7.)
+(The purpose of this assignment is for you to deliver a trained model that addresses your project proposal. This model needs to be trained with the data set that you harvested from the previous assignment 7.)
 
 - Please copy the contents of this markdown as the starting template of your assingment. 
 - The resulting file from this programming assingment must be submitted to the private repo you submitted for my review during assignment one. 
-- The name of the file has to follow  naming convention:  *lastname*_week11.ipynb
+- The name of the file has to follow  naming convention:  *lastname*_week13.ipynb
 - There are four sections of this assignments required to receive full credit. 
 - Please see that the expected file is a Jupyter notebook which contains Python code and markdown, just like shown in class and in my recap video from week 2. 
 
